@@ -17,6 +17,7 @@
     "url": "git@github.com:projectftbl/socket.git"
   },
   "dependencies": {
+    "@ftbl/gulp": "^1.5.0",
     "@ftbl/log": "^1.0.0",
     "@ftbl/redis": "^1.0.0",
     "chalk": "^1.1.1",
