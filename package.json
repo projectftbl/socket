@@ -1,6 +1,6 @@
 {
   "name": "@ftbl/socket",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Web socket manager",
   "main": "node index",
   "scripts": {
