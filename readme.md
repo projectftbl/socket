@@ -1,4 +1,4 @@
-## @ftbl/socket
+## @recipher/socket
 
 Web socket server.
 
